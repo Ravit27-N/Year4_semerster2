@@ -1,0 +1,46 @@
+github-link: https://github.com/goldfire/Building-Distributed-Systems-Node.js.git
+
+
+
+=>1 Install pakage for used
+sudo apt install (For install nodejs,git,npm)
+
+sudo apt-get install haproxy (control port redirect to)
+
+sudo gedit /etc/default/haproxy 
++ add text(ENABLED=1)
+
+
+=>2 Check we install completed or node 
+node --version
+npm --version
+git --version
+haproxy 
+
+
+
+=>3 Clone GIT by LINK above
+=> node install pakage  
+
+
+=>4 Change directory to the directory that we store file
+  => run haproxy
+     haproxy -f haproxy.cfg (1st terminal)
+  => run server with port
+     node server.js 3000 (2nd terminal)
+     node server.js 3001 (3rd terminal)
+     node server.js 3002 (4th terminal)
+
+
+=>5 click open client (...html)
+  => then we see the process 
+
+
+
+
+
+
+
+
+
+

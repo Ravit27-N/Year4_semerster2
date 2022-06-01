@@ -1,0 +1,10 @@
+
+Analog Signal
+ -Amplitued
+ -Frequency
+ -phase
+
+ASK change only amplitute;
+PSK change only phase;
+
+QAM amplitute and phase change (reduct noice)

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFD740;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#40C4FF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FF5252;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FF5252;}
+	.st6{fill:#4DB6AC;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FFD740;}
+	.st8{fill:#40C4FF;}
+	.st9{fill:#4DB6AC;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#263238;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#4FC3F7;}
+	.st13{fill:#E0E0E0;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Wireless_Headset">
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<circle class="st7" cx="30.5" cy="33" r="15"/>
+					</g>
+				</g>
+				<path class="st0" d="M22.7,30.2c4.3-4.3,11.3-4.3,15.6,0"/>
+				<path class="st0" d="M25.6,33.1c2.7-2.7,7.2-2.7,9.9,0"/>
+				<path class="st0" d="M28.4,35.9c1.2-1.2,3.1-1.2,4.2,0"/>
+			</g>
+			<g>
+				<g>
+					<path class="st0" d="M51,37v-4.5C51,21.2,41.8,12,30.5,12S10,21.2,10,32.5V37"/>
+					<path class="st0" d="M7,39v-6.5C7,19.5,17.5,9,30.5,9S54,19.5,54,32.5V39"/>
+				</g>
+				<path class="st2" d="M10.5,57H7c-2.8,0-5-2.2-5-5v-6c0-2.8,2.2-5,5-5h3.5V57z"/>
+				<path class="st2" d="M13,59h-2c-0.6,0-1-0.4-1-1V40c0-0.6,0.4-1,1-1h2c0.6,0,1,0.4,1,1v18C14,58.6,13.6,59,13,59z"/>
+				<path class="st2" d="M50.5,57H54c2.8,0,5-2.2,5-5v-6c0-2.8-2.2-5-5-5h-3.5V57z"/>
+				<path class="st2" d="M48,59h2c0.6,0,1-0.4,1-1V40c0-0.6-0.4-1-1-1h-2c-0.6,0-1,0.4-1,1v18C47,58.6,47.4,59,48,59z"/>
+			</g>
+			<g>
+				<polyline class="st0" points="57,15.5 57,10 62,9 62,14.5 				"/>
+				<ellipse class="st0" cx="55.5" cy="15.5" rx="1.5" ry="1"/>
+				<ellipse class="st0" cx="60.5" cy="14.5" rx="1.5" ry="1"/>
+			</g>
+			<g>
+				<path class="st0" d="M2.5,33c0-15.5,12.5-28,28-28"/>
+				<line class="st0" x1="32.5" y1="5" x2="33.5" y2="5"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line class="st0" x1="38.5" y1="55" x2="39.5" y2="55"/>
+				<line class="st0" x1="26.5" y1="55" x2="36.5" y2="55"/>
+			</g>
+			<g>
+				<line class="st0" x1="22.5" y1="53" x2="21.5" y2="53"/>
+				<line class="st0" x1="34.5" y1="53" x2="24.5" y2="53"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

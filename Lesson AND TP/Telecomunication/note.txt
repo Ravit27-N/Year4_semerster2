@@ -1,0 +1,47 @@
+Tele
+1. Media access: 
+2. Transmittion media : send from 1 netowork to another network
+3. 
+
+
+Attendent: 10%
+Quiz: 30%
+mid: 20%
+final Project: 40%
+
+
+
+1. both data comunication adn network
+2. component and type of data exchanged
+3. network adn define their criteria 
+4. Introduces the concept of protocol layering 
+
+
+1. Data Communication
+
+
+
+Tele Communication meaing
+ 
+
+data communication : exchange data in two devices or more
+
+send data:
+1. Delivery : to user we want to send
+2. Accuracy : send the real data 
+3. Timeliness: dilived data not late 
+4. 
+
+
+
+
+a. Simplex : one direction
+b. Half Duplex: have two direction but can process only one in one time (អាយគូម)
+c. Full- Dubplex: two Direction and can process all direction
+
+
+A network is the communication of a set of devices capable of communication, a device can be a host and can also be a connecting device.
+Performance, Reliability , Security
+
+
+1:06:44

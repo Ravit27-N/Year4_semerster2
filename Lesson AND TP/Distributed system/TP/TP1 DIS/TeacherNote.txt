@@ -1,0 +1,29 @@
+1. Clone project to working folder
+    $cd Desktop
+    $mkdir myProject
+    $cd myProject
+    $git clone https://github.com/goldfire/Building-Distributed-Systems-Node.js
+    $cd Building-Distributed-Systems-Node
+    
+1. Install Node in Ubuntu
+    $sudo apt-get update
+    $sudo apt install nodejs
+    $node -v
+
+ 
+
+2. Install NPM
+    $sudo apt-get install npm
+3. Install HAPROXY
+    $sudo apt-get install haproxy
+4. Configure HAPROXY 
+   $sudo gedit /etc/default/haproxy 
+            ENABLED=1
+5. Run HAPROXY
+    $haproxy -f haproxy.cfg
+6. RUN Server
+    $npm install                     //install dependency library such as primus democracy....
+    $node server.js 3000
+    $node server.js 3001            //New Terminal
+7. RUN Client
+    double click on index.html

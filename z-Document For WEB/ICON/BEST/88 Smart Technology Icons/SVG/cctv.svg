@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFD740;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#40C4FF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FF5252;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FF5252;}
+	.st6{fill:#4DB6AC;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FFD740;}
+	.st8{fill:#40C4FF;}
+	.st9{fill:#4DB6AC;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#263238;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#4FC3F7;}
+	.st13{fill:#E0E0E0;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="CCTV">
+	<g>
+		<polyline class="st0" points="38.7,30.5 41,53.5 55.5,53.5 		"/>
+		<polyline class="st0" points="55.5,48.5 46,48.5 44.2,30.5 		"/>
+		<g>
+			<g>
+				<path class="st5" d="M5.4,4.5c-6.5,7.7-6.5,20.3,0,28l15.1-14L5.4,4.5z"/>
+			</g>
+		</g>
+		<path class="st0" d="M61.5,60.5h-4c-1.1,0-2-0.9-2-2v-15c0-1.1,0.9-2,2-2h4c1.1,0,2,0.9,2,2v15C63.5,59.6,62.6,60.5,61.5,60.5z"/>
+		<path class="st0" d="M58.5,28.5h-34c-1.1,0-2-0.9-2-2v-16c0-1.1,0.9-2,2-2h34c1.1,0,2,0.9,2,2v16C60.5,27.6,59.6,28.5,58.5,28.5z"
+			/>
+		<path class="st0" d="M21.5,22.5h-3c-0.6,0-1-0.4-1-1v-6c0-0.6,0.4-1,1-1h3c0.6,0,1,0.4,1,1v6C22.5,22.1,22.1,22.5,21.5,22.5z"/>
+		<path class="st2" d="M60.5,19.5H24.8c-0.8,0-1.5-0.5-1.8-1.2l-3.2-7c-0.6-1.3,0.4-2.8,1.8-2.8h38.9c1.1,0,2,0.9,2,2l0,7
+			C62.5,18.6,61.6,19.5,60.5,19.5z"/>
+		<line class="st2" x1="59.5" y1="11.5" x2="59.5" y2="16.5"/>
+		<circle class="st2" cx="43.5" cy="51" r="5"/>
+		<path class="st0" d="M9.3,7.1C4.1,15.3,5,26.3,12.2,33.5"/>
+		<path class="st0" d="M12.2,3.5c-0.6,0.6-1.1,1.1-1.6,1.7"/>
+		<g>
+			<line class="st0" x1="23.6" y1="34.5" x2="22.6" y2="34.5"/>
+			<line class="st0" x1="32.1" y1="34.5" x2="25.6" y2="34.5"/>
+		</g>
+		<g>
+			<line class="st2" x1="57.5" y1="3.5" x2="58.5" y2="3.5"/>
+			<line class="st2" x1="47" y1="3.5" x2="55.5" y2="3.5"/>
+		</g>
+	</g>
+</g>
+</svg>

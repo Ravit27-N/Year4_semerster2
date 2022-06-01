@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFD740;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#40C4FF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FF5252;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FF5252;}
+	.st6{fill:#4DB6AC;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FFD740;}
+	.st8{fill:#40C4FF;}
+	.st9{fill:#4DB6AC;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#263238;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#4FC3F7;}
+	.st13{fill:#E0E0E0;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Smart_Fridge">
+	<g>
+		<g>
+			<g>
+				<g>
+					<circle class="st7" cx="45.5" cy="15.5" r="15"/>
+				</g>
+			</g>
+			<path class="st0" d="M37.7,12.7c4.3-4.3,11.3-4.3,15.6,0"/>
+			<path class="st0" d="M40.6,15.6c2.7-2.7,7.2-2.7,9.9,0"/>
+			<path class="st0" d="M43.4,18.4c1.2-1.2,3.1-1.2,4.2,0"/>
+		</g>
+		<g>
+			<path class="st0" d="M33,63.5H9c-1.4,0-2.5-1.1-2.5-2.5V10c0-1.4,1.1-2.5,2.5-2.5h24c1.4,0,2.5,1.1,2.5,2.5v51
+				C35.5,62.4,34.4,63.5,33,63.5z"/>
+			<line class="st0" x1="6.5" y1="31.5" x2="35.5" y2="31.5"/>
+			<path class="st2" d="M24,23h-6c-0.6,0-1-0.4-1-1v-6c0-0.6,0.4-1,1-1h6c0.6,0,1,0.4,1,1v6C25,22.6,24.6,23,24,23z"/>
+			<line class="st0" x1="10.5" y1="16" x2="10.5" y2="22"/>
+			<line class="st0" x1="10.5" y1="35.5" x2="10.5" y2="41.5"/>
+		</g>
+		<g>
+			<line class="st0" x1="45.5" y1="35" x2="45.5" y2="41"/>
+			<line class="st0" x1="48.1" y1="36.5" x2="42.9" y2="39.5"/>
+			<line class="st0" x1="42.9" y1="36.5" x2="48.1" y2="39.5"/>
+		</g>
+		<g>
+			<line class="st0" x1="3.5" y1="24" x2="3.5" y2="34"/>
+			<line class="st0" x1="3.5" y1="22" x2="3.5" y2="21"/>
+		</g>
+		<g>
+			<line class="st0" x1="53" y1="45" x2="53" y2="51"/>
+			<line class="st0" x1="55.6" y1="46.5" x2="50.4" y2="49.5"/>
+			<line class="st0" x1="50.4" y1="46.5" x2="55.6" y2="49.5"/>
+		</g>
+		<g>
+			<line class="st0" x1="38.5" y1="51.5" x2="38.5" y2="41.5"/>
+			<line class="st0" x1="38.5" y1="53.5" x2="38.5" y2="54.5"/>
+		</g>
+	</g>
+	<line class="st0" x1="32.5" y1="34.5" x2="32.5" y2="60.5"/>
+</g>
+</svg>

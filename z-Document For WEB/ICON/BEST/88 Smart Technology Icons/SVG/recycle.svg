@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFD740;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#40C4FF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FF5252;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FF5252;}
+	.st6{fill:#4DB6AC;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FFD740;}
+	.st8{fill:#40C4FF;}
+	.st9{fill:#4DB6AC;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#263238;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#4FC3F7;}
+	.st13{fill:#E0E0E0;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Recycle">
+	<g>
+		<g>
+			<g>
+				<line class="st0" x1="56.2" y1="34.1" x2="50.1" y2="23.6"/>
+				<line class="st0" x1="57.6" y1="36.6" x2="57.1" y2="35.6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st6" d="M21.5,39.4l3.1,1.8l-4.1-9.3L10.4,33l3.1,1.8l-5,8.6c-0.9,1.6-0.9,3.6,0,5.2l2.3,4.1
+					c0.9,1.6,2.6,2.6,4.5,2.6l11.9,0l0-9.2l-9.5,0l2.3-4"/>
+				<path class="st6" d="M38.4,46v-3.6l-6,8.2l6,8.2v-3.6l9.9,0c1.8,0,3.5-1,4.5-2.6l2.3-4.1c0.9-1.6,0.9-3.6,0-5.2l-5.9-10.3
+					l-8,4.6L46,46l0,0l-4.6,0"/>
+				<path class="st6" d="M35.6,28.1l-3.1,1.8L42.6,31l4.1-9.3l-3.1,1.8l-5-8.6c-0.9-1.6-2.6-2.6-4.5-2.6l-4.7,0
+					c-1.8,0-3.5,1-4.5,2.6l-5.9,10.3l8,4.6l4.8-8.3l2.3,4"/>
+			</g>
+			<line class="st6" x1="31.8" y1="21.5" x2="28.8" y2="16.3"/>
+			<line class="st6" x1="46" y1="46" x2="52" y2="46"/>
+			<line class="st6" x1="17.7" y1="46" x2="14.7" y2="51.2"/>
+		</g>
+		<g>
+			<g>
+				<line class="st0" x1="17.3" y1="17.3" x2="11.2" y2="27.8"/>
+				<line class="st0" x1="18.7" y1="14.8" x2="18.1" y2="15.8"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line class="st0" x1="19.6" y1="60.9" x2="31.7" y2="60.9"/>
+				<line class="st0" x1="16.7" y1="60.9" x2="17.9" y2="60.9"/>
+			</g>
+		</g>
+		<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -16.8714 79.2082)" class="st1" cx="60.2" cy="54.2" rx="2" ry="2"/>
+		<circle class="st1" cx="32.5" cy="5.1" r="2"/>
+		<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -26.8824 9.2606)" class="st1" cx="3.8" cy="54.8" rx="2" ry="2"/>
+	</g>
+</g>
+</svg>

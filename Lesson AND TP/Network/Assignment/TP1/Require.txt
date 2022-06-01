@@ -1,0 +1,11 @@
+10 slide 
+Topic 2 
+submit 1 / Present all member
+
+How to implement network?
+
+=> Introduction ( Lina ) 1 page
+=> Prepare Device (Ravit ) 1 page
+=> Working with server ( Nikhar , Sokheang )4 page
+=> Managing Your netowork ( Sreyleav , sreykhoch) 4 page
+=> Security (Ravit & Lina) 4 page

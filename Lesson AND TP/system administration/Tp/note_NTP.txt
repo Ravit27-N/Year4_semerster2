@@ -1,0 +1,25 @@
+NTP for client(ping google.com)
+
+sudo apt install ntp
+sudo nano /etc/hosts
+   => add line 3
+ => 192.168.11.10 ravitserver
+
+sudo /etc/ntp.conf
+ server 0.ravitserver.pool.ntp.org
+
+sudo systemctl restart ntp
+ntpq -p
+timedatectl
+timedatectl set-timezone Asia/Bangkok
+
+
+
+NTP for server(ping google.com)
+sudo apt install ntp 
+sudo nano /etc/ntp.conf 
+	replace Asia timezone server
+   server 0.asia.pool.ntp.org
+sudo systemctl restart ntp 
+sudo systemctl status ntp
+===============================

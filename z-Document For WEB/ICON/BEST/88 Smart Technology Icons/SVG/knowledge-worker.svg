@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFD740;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#40C4FF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FF5252;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FF5252;}
+	.st6{fill:#4DB6AC;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FFD740;}
+	.st8{fill:#40C4FF;}
+	.st9{fill:#4DB6AC;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#263238;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#4FC3F7;}
+	.st13{fill:#E0E0E0;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Knowledge_Worker">
+	<g>
+		<g>
+			<g>
+				<circle class="st8" cx="32" cy="14.1" r="3"/>
+			</g>
+		</g>
+		<g>
+			<circle class="st1" cx="12" cy="35.5" r="6"/>
+			<path class="st0" d="M4.5,58.5H2V47c0-2.5,2-4.5,4.5-4.5h0"/>
+			<path class="st0" d="M17.5,42.5L17.5,42.5c2.5,0,4.5,2,4.5,4.5v11.5h-2.5"/>
+			<line class="st0" x1="8.5" y1="42.5" x2="12" y2="45.5"/>
+			<polyline class="st0" points="15.5,42.5 12,45.5 12,51.5 			"/>
+			<polyline class="st0" points="17.5,51.5 17.5,58.5 6.5,58.5 6.5,51.5 			"/>
+		</g>
+		<g>
+			<circle class="st1" cx="32" cy="40.5" r="6"/>
+			<path class="st0" d="M24.5,63.5H22V52c0-2.5,2-4.5,4.5-4.5h0"/>
+			<path class="st0" d="M37.5,47.5L37.5,47.5c2.5,0,4.5,2,4.5,4.5v11.5h-2.5"/>
+			<line class="st0" x1="28.5" y1="47.5" x2="32" y2="50.5"/>
+			<polyline class="st0" points="35.5,47.5 32,50.5 32,56.5 			"/>
+			<polyline class="st0" points="37.5,56.5 37.5,63.5 26.5,63.5 26.5,56.5 			"/>
+		</g>
+		<g>
+			<circle class="st1" cx="52" cy="35.5" r="6"/>
+			<path class="st0" d="M44.5,58.5H42V47c0-2.5,2-4.5,4.5-4.5h0"/>
+			<path class="st0" d="M57.5,42.5L57.5,42.5c2.5,0,4.5,2,4.5,4.5v11.5h-2.5"/>
+			<line class="st0" x1="48.5" y1="42.5" x2="52" y2="45.5"/>
+			<polyline class="st0" points="55.5,42.5 52,45.5 52,51.5 			"/>
+			<polyline class="st0" points="57.5,51.5 57.5,58.5 46.5,58.5 46.5,51.5 			"/>
+		</g>
+		<ellipse transform="matrix(0.887 -0.4617 0.4617 0.887 -2.892 16.3684)" class="st0" cx="32" cy="14.1" rx="6" ry="15"/>
+		<ellipse transform="matrix(0.4617 -0.887 0.887 0.4617 4.723 35.9702)" class="st0" cx="32" cy="14.1" rx="15" ry="6"/>
+		<ellipse class="st0" cx="32" cy="14.1" rx="15" ry="6"/>
+		<circle class="st0" cx="53" cy="6.1" r="2"/>
+		<circle class="st0" cx="11" cy="22.1" r="2"/>
+		<g>
+			<g>
+				<line class="st0" x1="5" y1="63.5" x2="4" y2="63.5"/>
+				<line class="st0" x1="19" y1="63.5" x2="7" y2="63.5"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line class="st0" x1="59" y1="63.5" x2="60" y2="63.5"/>
+				<line class="st0" x1="45" y1="63.5" x2="57" y2="63.5"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

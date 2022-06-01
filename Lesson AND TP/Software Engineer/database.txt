@@ -1,0 +1,46 @@
+Product
+
++ id : int
++ model: string
++ price : double(15,2)
++ location: text
++ onwername: string
++ marchine_number: string
++ car_year: int
++ feature: text
++ description: text
++ email: string
++ phone: string
++ photo: base64
+
+list_car()
+sell_car()
+delete_car()
+edit_car()
+filter()
+
+
+
+=========================================
+user
+
++id : int
++username : string
++password : string
++confirm_password : string
++nation_card_photo : base64
++fullname : string
++nation_id : string
++email: string
++phone_number: string
+
+
+=========================================
+Contact
+
++
++
++
++
++
++ 

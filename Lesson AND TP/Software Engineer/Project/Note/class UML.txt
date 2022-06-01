@@ -1,0 +1,7 @@
+add Class
+	- add attribute
+		# protected
+		- Private
+		~ Package visibility
+		+ public
+        - add method

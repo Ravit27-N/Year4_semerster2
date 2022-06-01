@@ -1,0 +1,22 @@
+++Harding Network
+	=> Security
+
+Three Techniques
+ 1. Firewalls
+ 2. Virus Protections
+ 3. Patching Things up
+
+
+++ Securing Email
+	
+ Defining Spam
+ Using antispam software
+ Understanding Spam Filters
+
+++ Backing up your data
+ Golden rule 
+  
+Two key backup 
+	=> Recovery point object 
+	=> Recovery time objective
+ 

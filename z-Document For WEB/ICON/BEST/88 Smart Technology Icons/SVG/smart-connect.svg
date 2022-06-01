@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFD740;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#40C4FF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FF5252;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FF5252;}
+	.st6{fill:#4DB6AC;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FFD740;}
+	.st8{fill:#40C4FF;}
+	.st9{fill:#4DB6AC;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#263238;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#4FC3F7;}
+	.st13{fill:#E0E0E0;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Smart_Connect">
+	<g>
+		<path class="st2" d="M38,32.5h9c5.5,0,10-4.5,10-10v0c0-5.5-4.5-10-10-10h-3v0c0-6.6-5.4-12-12-12h0c-6.6,0-12,5.4-12,12v0h-3
+			c-5.5,0-10,4.5-10,10v0c0,5.5,4.5,10,10,10h9"/>
+		<path class="st0" d="M32,3.5 M32,3.5c5,0,9,4,9,9"/>
+		<g>
+			<circle class="st1" cx="32" cy="32.5" r="3"/>
+			<g>
+				<path class="st0" d="M24.2,24.7c4.3-4.3,11.3-4.3,15.6,0"/>
+				<path class="st0" d="M27.1,27.6c2.7-2.7,7.2-2.7,9.9,0"/>
+				<path class="st0" d="M29.9,30.4c1.2-1.2,3.1-1.2,4.2,0"/>
+			</g>
+		</g>
+		<g>
+			<path class="st0" d="M45,61V46c0-1.4,1.1-2.5,2.5-2.5h7c1.4,0,2.5,1.1,2.5,2.5v15c0,1.4-1.1,2.5-2.5,2.5h-7
+				C46.1,63.5,45,62.4,45,61z"/>
+			<path class="st0" d="M57,59.5H45V61c0,1.4,1.1,2.5,2.5,2.5h7c1.4,0,2.5-1.1,2.5-2.5V59.5z"/>
+			<line class="st0" x1="50" y1="61.5" x2="52" y2="61.5"/>
+		</g>
+		<g>
+			<path class="st0" d="M7,61V46c0-1.4,1.1-2.5,2.5-2.5h7c1.4,0,2.5,1.1,2.5,2.5v15c0,1.4-1.1,2.5-2.5,2.5h-7C8.1,63.5,7,62.4,7,61z
+				"/>
+			<path class="st0" d="M19,59.5H7V61c0,1.4,1.1,2.5,2.5,2.5h7c1.4,0,2.5-1.1,2.5-2.5V59.5z"/>
+			<line class="st0" x1="12" y1="61.5" x2="14" y2="61.5"/>
+		</g>
+		<g>
+			<g>
+				<line class="st0" x1="37" y1="50.5" x2="25" y2="50.5"/>
+				<polyline class="st0" points="27,52.5 25,50.5 27,48.5 				"/>
+			</g>
+			<g>
+				<line class="st0" x1="27" y1="56.5" x2="39" y2="56.5"/>
+				<polyline class="st0" points="37,54.5 39,56.5 37,58.5 				"/>
+			</g>
+		</g>
+		<line class="st0" x1="32" y1="46.5" x2="32" y2="47.5"/>
+		<line class="st0" x1="32" y1="32.5" x2="32" y2="44.5"/>
+	</g>
+</g>
+</svg>

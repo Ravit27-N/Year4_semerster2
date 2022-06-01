@@ -1,0 +1,26 @@
+31/3/2021
+
+
+Server have two adabtor
+- Nat 
+- Local host
+
+
+server 				client
+ip: 192.168.11.10		ip: 192.168.10.20
+ip: 192.168.15.10		ip: 192.168.15.20
+
+
+change in configuation file 
+	=> 
+	/etc/netplan/
+
+
+
+we need to change fill
+	/etc/netplan => tabs
+
+
+Sudo netplan apply (command IP)
+	=>we need to install if not working 
+

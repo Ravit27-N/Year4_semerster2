@@ -1,0 +1,11 @@
+Stock Managerment System
+	=>Authentication User
+	=>Product management
+	=>Purchase management
+	=>Sale management
+
+
+Cars Market 
+	=> can post 
+	=> Secondhand
+	

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FFD740;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#40C4FF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FF5252;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FF5252;}
+	.st6{fill:#4DB6AC;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#FFD740;}
+	.st8{fill:#40C4FF;}
+	.st9{fill:#4DB6AC;}
+	.st10{fill:#FFFFFF;}
+	.st11{fill:#263238;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:#4FC3F7;}
+	.st13{fill:#E0E0E0;stroke:#263238;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Prediction">
+	<g>
+		<g>
+			<path class="st0" d="M59,25c0,0-5.4,6.5-12,6.5S35,25,35,25s5.4-6.5,12-6.5S59,25,59,25z"/>
+			<circle class="st2" cx="47" cy="25" r="4.5"/>
+			<path class="st0" d="M47,22.5c1.4,0,2.5,1.1,2.5,2.5"/>
+		</g>
+		<g>
+			<path class="st0" d="M47,16.5v-2c0-2.8-2.2-5-5-5H7c-2.8,0-5,2.2-5,5v35c0,2.8,2.2,5,5,5h35c2.8,0,5-2.2,5-5v-16"/>
+			<g>
+				<polyline class="st0" points="8,43 15.5,39 23,43 30,34 37,43 41,43 				"/>
+				<circle class="st4" cx="30" cy="34" r="2"/>
+				<circle class="st4" cx="15.5" cy="39" r="2"/>
+			</g>
+			<line class="st0" x1="7" y1="17.5" x2="18" y2="17.5"/>
+			<line class="st0" x1="7" y1="21.5" x2="15" y2="21.5"/>
+		</g>
+		<g>
+			<g>
+				<line class="st0" x1="34.5" y1="59.5" x2="35.5" y2="59.5"/>
+				<line class="st0" x1="13.5" y1="59.5" x2="32.5" y2="59.5"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line class="st0" x1="14.5" y1="4.5" x2="13.5" y2="4.5"/>
+				<line class="st0" x1="35.5" y1="4.5" x2="16.5" y2="4.5"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line class="st0" x1="62" y1="38.5" x2="58" y2="38.5"/>
+				<line class="st0" x1="60" y1="36.5" x2="60" y2="40.5"/>
+			</g>
+			<g>
+				<line class="st0" x1="55" y1="45" x2="51" y2="45"/>
+				<line class="st0" x1="53" y1="43" x2="53" y2="47"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

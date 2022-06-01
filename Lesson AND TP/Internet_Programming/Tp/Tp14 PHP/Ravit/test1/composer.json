@@ -1,0 +1,17 @@
+{
+    "name": "ravit/test1",
+    "autoload": {
+        "psr-4": {
+            "Ravit\\Test1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RavitHun",
+            "email": "77621123+Ravit27-N@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    }
+}

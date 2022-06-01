@@ -1,0 +1,27 @@
+1. Who create Blockchain and bitcoin?
+2. When bitcoin Blockchain was created?
+3. Why bitcoin Blockchain was created?
+4. Technically which problem Blockchain is trying to solve?
+5. What is Blockchain?
+6. What are the property of Blockchain?
+7. What is ledger?
+8. What is stored in ledger?
+9. Which consensus algorithm bitcoin is using?
+10. What is mining, how does it works?
+
+
+Asnwer
+A1: Satoshi Nakamoto    A2: 2008 (សង្គ្រាមត្រជាក់)
+A3: Get rid of third party (Bank)
+A4: Double Spending Problem
+A5: Chain of blocks, DLT: Distributed Ledger Technology
+A6: Immutable : Hard to change / modify
+        Transpanrency: public
+        Auditability
+        History
+A7: Database
+A8: It stores the transactions
+A9: Proof of works
+A10: Process of finding nonce which can compute the identity of a block.
+        Bitcoin mining is the process of creating new bitcoins by solving extremely 
+	complicated math problems that verify transactions in the currency.

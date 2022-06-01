@@ -1,0 +1,32 @@
+Team2: 28/3/2022
+
+Cover 1 page: TOTAL 6 page
+
+Topic:  Voice Over IP in CentOS
+	- What is CentOS? (already) 				 (SreayKhouch)   page 1 
+	- Install CentOS(already)				 (SreayLeav)
+ 	- Why used CentOS?(already)				 (Lina)		 page 1 
+
+	- What is VoIP?(follow link)				 (SreayKhouch)	 page2
+	- How does VoIP work? (follow link) 			 (Ravit)	 page2
+	- Key VoIP Features (follow link)   			 (Sokheang)	 page2-page3
+
+	- Pros and Cons of VoIP(software and feature)+choose 1	 (Ravit)	 page3
+	- Install VoIP Software on CentOS (Asterisk-16)		 (Nikkare)       page4
+	
+	- How much Does VoIP Cost? (note: about network traffic) (Ravit)         page4
+	- VoIP Equipment and Hardware (connect with device) 	 (lina)	         page5
+	
+	
+
+
+Asterisk install
+https://computingforgeeks.com/how-to-install-asterisk-16-centos-7-linux/ 
+Feature VoIP
+https://www.xorcom.com/what-is-voip/
+importance 
+https://getvoip.com/library/what-is-voip/
+software 
+https://www.softwaretestinghelp.com/voip-software/
+
+=======
