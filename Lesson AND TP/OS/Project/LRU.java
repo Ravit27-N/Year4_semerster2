@@ -5,21 +5,21 @@ public class LRU {
   Scanner src = new Scanner(System.in);
 
   void read() {
-    System.out.println("Enter page table size");
+    System.out.println("Enter page table size: ");
     n = src.nextInt();
     p = new int[n];
-    System.out.println("Enter the Reference String ");
+    System.out.println("Enter the Reference String: ");
     for (int i = 0; i < n; i++)
       p[i] = src.nextInt();
-    System.out.println("Enter the Number of frames");
+    System.out.println("Enter the Number of frames: ");
     m = src.nextInt();
     fr = new int[m];
     fs = new int[m];
   }
 
   void display() {
-    System.out.println("\n");
     for (i = 0; i < m; i++) {
+      System.out.print("\t");
       if (fr[i] == -1)
         System.out.printf("[ ]");
       else
@@ -73,6 +73,6 @@ public class LRU {
     LRU a = new LRU();
     a.read();
     a.lru();
-    a.display();
+  
   }
 }

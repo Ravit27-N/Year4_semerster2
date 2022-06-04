@@ -1,0 +1,15 @@
+Today Lab
+ - Mail Server
+ - Read from the book (p 125)
+ - Also follow instruction in recent upload pdf file
+ - Don't run anything you see check first.
+(newusername = ravitserver)
+(yourdomain=hunravit)
+
+
+Mini Project
+ > Web hosting on cloud
+ > Team: 4 member
+ > Chose a free cloudplatform: AWS EC2, Digital Ocean
+ > Install a web server on Ubuntu Server on the cloud instace.
+ > Resault a public IP address of your website buy domain name (optional)

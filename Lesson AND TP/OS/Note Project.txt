@@ -1,0 +1,23 @@
+=> FIFO and LRU
+Input:
+ + Page size: 5
+ + Page value: 2 1 2 3 4
+ + Number of frame: 2 or 3
+Output:
+ + Page fault:
+ + Page fault Ratio:
+ + Success:
+ + Success: Ration
+
+=> FCFS
+Input
+ - number of job: 5
+ - each job:
+	+ enter arrival time:(0 in our example exercise)
+	+ enter brust time(CPU cycle time):
+Out put:
+ - average waiting time: 
+ - Average turnament time: 
+
+=> SJN
+ - 
