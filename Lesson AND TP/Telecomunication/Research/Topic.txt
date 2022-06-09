@@ -1,0 +1,4 @@
+1. Spread Spectrum
+FHSS ( Frequency Hopping Spread Spectrum)
+DSSS ( Direct Sequence Spread Spectrum)
+

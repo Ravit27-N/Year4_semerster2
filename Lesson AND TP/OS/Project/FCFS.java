@@ -3,7 +3,7 @@ import java.util.*;
 public class FCFS {
   public static void main(String args[]) {
     Scanner sc = new Scanner(System.in);
-    System.out.println("enter no of process: ");
+    System.out.printf("Enter number of job: ");
     int n = sc.nextInt();
     int pid[] = new int[n]; // process ids
     int ar[] = new int[n]; // arrival times
@@ -15,9 +15,10 @@ public class FCFS {
     float avgwt = 0, avgta = 0;
 
     for (int i = 0; i < n; i++) {
-      System.out.println("enter process " + (i + 1) + " arrival time: ");
+      System.out.println("Job"+ (i + 1)+": ");
+      System.out.printf("Enter Job " + (i + 1) + " arrival time: ");
       ar[i] = sc.nextInt();
-      System.out.println("enter process " + (i + 1) + " brust time: ");
+      System.out.printf("Enter Job " + (i + 1) + " cpu cycle time: ");
       bt[i] = sc.nextInt();
       pid[i] = i + 1;
     }

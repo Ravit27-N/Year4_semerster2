@@ -1,23 +1,28 @@
 import java.util.*;
 
 public class LRU {
-  int p[], n, fr[], m, fs[], index, k, l, flag1 = 0, flag2 = 0, pf = 0, framesize = 3, i, j;
+ // int  p[], n, fr[], m, fs[];
+  int index, k, l, flag1 = 0, flag2 = 0, pf = 0, framesize = 3, i, j;
   Scanner src = new Scanner(System.in);
 
-  void read() {
-    System.out.println("Enter page table size: ");
-    n = src.nextInt();
-    p = new int[n];
-    System.out.println("Enter the Reference String: ");
-    for (int i = 0; i < n; i++)
-      p[i] = src.nextInt();
-    System.out.println("Enter the Number of frames: ");
-    m = src.nextInt();
-    fr = new int[m];
-    fs = new int[m];
-  }
+  // void read() {
+  //   System.out.println("Enter page table size: ");
+  //   n = src.nextInt();
+  //   p = new int[n];
+  //   System.out.println("Enter the each page number: ");
+  //   for (int i = 0; i < n; i++){
+  //     int numIncom = i+1;
+  //     System.out.printf("Enter number of page "+numIncom+"(int): ");
+  //     p[i] = src.nextInt();
+  //   }
+      
+  //   System.out.println("Enter the Number of frames: ");
+  //   m = src.nextInt();
+  //   fr = new int[m];
+  //   fs = new int[m];
+  // }
 
-  void display() {
+  void display(int fr[],int m) {
     for (i = 0; i < m; i++) {
       System.out.print("\t");
       if (fr[i] == -1)
@@ -28,7 +33,7 @@ public class LRU {
     System.out.printf("\n");
   }
 
-  void lru() { 
+  int lru(int n,int m,int p[] , int fr[] , int fs[] ) { 
     for(i=0;i<m;i++){ 
       fr[i]=-1; 
     } 
@@ -64,15 +69,18 @@ public class LRU {
         fr[index]=p[j]; 
         pf++; 
       } 
-      System.out.print("Page : "+p[j]); display(); 
+      System.out.print("Page : "+p[j]); 
+      display(fr,m); 
     } 
-      System.out.println("\n Number of page fault:"+pf); 
+      //System.out.println("\n Number of page fault:"+pf); 
+      
+      return pf;
   }
 
   public static void main(String args[]) {
     LRU a = new LRU();
-    a.read();
-    a.lru();
+    // a.read();
+    //a.lru();
   
   }
 }
