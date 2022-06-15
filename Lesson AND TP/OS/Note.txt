@@ -1,0 +1,11 @@
+FIFO & LRU
+ Input:
+	+ size page table: 
+	+ each page number: 
+
+ OutPut: 
+	+ Page Fault 
+	+ Page Fault Ratio
+	+ Success
+	+ Success Raio
+	
