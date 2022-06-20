@@ -1,0 +1,12 @@
+sudo dpkg-reconfigure slapd
+change dc=srv => dc=hunravit
+change dc=world => dc=com
+
+sudo su forcal => sudo su ravit
+
+
+
+not 5 6 7 
+
+
+do 8
