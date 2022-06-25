@@ -1,0 +1,4 @@
+21,6,2022 | meeting 1 | Talk about topic          | meeting online
+22,6,2022 | meeting 2 |time 3:00 	 | Get Result Research       | meeting offline
+24,6,2022 | meeting 3 |time 9:00 or 1:00 | Check Report and Slide    | meeting offline
+26,6,2022 | meeting 4 |time 9:00 night   | Check after complete 1st  | meeting offline

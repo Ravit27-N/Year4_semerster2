@@ -1,0 +1,6 @@
+	5G – Fifth Generation of Mobile Network
+ 	5G use cases and system concept; frequency band
+ 	5G mobile network services requirement trends
+ 	5G network challenges 
+ 	5G network communication: Massive MIMO Communications; Millimeter-Wave Mobile Communications; M2M and D2D communication in 5G
+ 	5G and AI
