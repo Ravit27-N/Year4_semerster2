@@ -1,0 +1,13 @@
+show dbs 			(use to show database)
+use db_name 			(switch to use database) 
+show collections		(show collection in database)
+db.dropDatabase()  		(drop database)
+db.collectionName.find()  	(show data in collection)
+
+
+//back up
+
+//dump 
+mongodump --d databasename --out "directorypath"	(backup)
+
+mongostore "directorypath"

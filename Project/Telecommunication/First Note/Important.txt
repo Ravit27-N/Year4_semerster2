@@ -1,0 +1,19 @@
+
+
+5G introduction
+
+5G system Concept
+https://www.essentracomponents.com/en-us/news/guides/what-is-5g-base-station-architecture
+
+5G frequency band
+https://www.youtube.com/watch?v=oRdjS5p-d1E&list=LL&index=5&t=4s
+
+5G usecase
+http://www.techtrained.com/5g-use-cases-and-system-concepts/
+https://www.celona.io/5g-lan/5g-use-cases
+
+5G challenges
+https://www.tutorialspoint.com/5g/5g_challenges.htm
+
+
+

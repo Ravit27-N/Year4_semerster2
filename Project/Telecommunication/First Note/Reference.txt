@@ -1,17 +1,29 @@
-1. 5G Challeng
+
+
+Introduction
+https://www.qualcomm.com/5g/what-is-5g
+
+
+
+1. 5G Challeng (100%)
 https://www.twi-global.com/technical-knowledge/faqs/what-is-5g#HowDoes5GWork
 https://www.ijert.org/research/fifth-generation-wireless-technology-5g-IJERTCONV3IS10066.pdf
 
 
-2. Use Case
+2. Use Case (100%)
 Internet of Things
 https://www.ramonmillan.com/documentos/bibliografia/5GUseCases_Nokia.pdf
 https://www.researchgate.net/publication/325706554_Trends_and_Issues_in_5G_Networking_and_Beyond (important)
 https://www.celona.io/5g-lan/5g-use-cases (important)
+https://www.techtarget.com/searchnetworking/definition/5G
+http://www.techtrained.com/5g-use-cases-and-system-concepts/(google Picture)
 
-frequency 
+frequency (60%)
 https://www.sdxcentral.com/5g/definitions/what-is-5g/what-is-5g-spectrum/
 
 system concept
 https://www.digi.com/blog/post/5g-network-architecture
+https://www.cambridge.org/core/books/abs/5g-mobile-and-wireless-communications-technology/5g-use-cases-and-system-concept/A3146D820B4221FAFE65327494FAE557
+https://riunet.upv.es/bitstream/handle/10251/84373/The%20METIS%205G%20System%20Concept%20-%20Authors%20version.pdf?sequence=3
+https://www.electronics-notes.com/articles/connectivity/5g-mobile-wireless-cellular/requirements.php
 
