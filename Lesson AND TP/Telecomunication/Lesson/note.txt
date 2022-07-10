@@ -1,0 +1,18 @@
+Lesson1: Data Communication & Network Models
+
+> physical Structures
+> Network Topologies
+> Switching
+> Layered Architecture
+> OSI MODEL
+> DATA Communication
+> Network Model
+
+Lesson2: Data and Analog Transmission
+
+> Data And Signal
+> Periodic Analog Signal(period and frequency)
+> NonPeriodic Digital Signal
+>
+>
+>
